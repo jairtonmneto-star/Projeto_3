@@ -2,7 +2,7 @@
 Meu 3 Projeto de Analise de Dados
 1.Principal Objetivo Descobrir qual sao os clubes que possui maior valor de Mercado Medio de 2011
 2.Tecnologias Utilizadas:Vscode,Python,Pandas,Plotly Express
-3.Banco de dados Usado para Analise: https://www.kaggle.com/datasets/andreifnmg/campeonato-braileiro-20092018/data?select=Tabela_Clubes.csv baixe caso voce nao  tenha Vscode,baixe o Vscode e Execute o Codigo em um Arquivo que possui .ipynb ou .py
+3.Banco de dados Usado para Analise:  baixe caso voce nao  tenha Vscode,baixe o Vscode e Execute o Codigo em um Arquivo que possui .ipynb ou .py
 4.Resultados:Os Clubes que Possuem o Maior valor medio de clube em 2011 São
 1.São Paulo
 2.Flamengo
